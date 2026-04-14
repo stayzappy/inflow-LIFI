@@ -182,7 +182,7 @@ Streaming    Custom escrow contract on Base
 
 **Mainnet**: [useinflow.web.app](https://useinflow.web.app/how-it-works)
 
-**Testnet (free USDC)**:
+**Mainnet (free USDC)**:
 1. Go to [useinflow.web.app](https://useinflow.web.app/how-it-works)
 2. Switch to **Base Mainnet** in the top toggle
 3. Sign in with any email
