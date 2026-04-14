@@ -164,9 +164,17 @@ Streaming    Custom escrow contract on Base
 
 ### Screenshots
 
-| Landing | Stream + Yield | My Streams | Earn Vaults |
-|---------|---------------|------------|-------------|
-| ![Landing](./screenshots/landing.jpg) | ![Stream](./screenshots/stream.jpg) | ![Streams](./screenshots/streams.jpg) | ![Earn](./screenshots/earn.png) |
+#### 🏠 Landing
+![Landing](./screenshots/landing.jpg)
+
+#### 💸 Stream + Yield
+![Stream](./screenshots/stream.jpg)
+
+#### 📊 My Streams
+![Streams](./screenshots/streams.jpg)
+
+#### 🏦 Earn Vaults
+![Earn](./screenshots/earn.jpg)
 
 ---
 
