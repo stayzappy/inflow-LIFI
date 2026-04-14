@@ -198,7 +198,7 @@ inFlow is built on the belief that money should move at the speed of work. And w
 ## Hackathon Submission
 
 - **Event**: DeFi Mullet Hackathon #1 — Builder Edition
-- **Track**: 🎨 DeFi UX Challenge
+- **Track**: 🎨 DeFi UX Challenge | Open Track
 - **API Used**: [LI.FI Earn](https://docs.li.fi/earn/overview) — vault discovery, Composer deposit, Composer withdraw
 - **Chain**: Base Mainnet + Sepolia
 
