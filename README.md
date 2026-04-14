@@ -12,7 +12,7 @@
 
 <div align="center">
 
-**[🚀 Live App](https://zapstream.web.app) · [📹 Demo Video](#demo) · [📖 How It Works](#how-it-works)**
+**[🚀 Live App](https://useInflow.web.app/how-it-works) · [📹 Demo Video](#demo) · [📖 How It Works](#how-it-works)**
 
 </div>
 
@@ -172,11 +172,11 @@ Streaming    Custom escrow contract on Base
 
 ## Try It
 
-**Mainnet**: [zapstream.web.app](https://zapstream.web.app)
+**Mainnet**: [useinflow.web.app](https://useinflow.web.app/how-it-works)
 
 **Testnet (free USDC)**:
-1. Go to [zapstream.web.app](https://zapstream.web.app)
-2. Switch to **Base Sepolia** in the top toggle
+1. Go to [useinflow.web.app](https://useinflow.web.app/how-it-works)
+2. Switch to **Base Mainnet** in the top toggle
 3. Sign in with any email
 4. Receive free test USDC automatically
 5. Create a salary stream → it auto-deposits into a LI.FI vault
