@@ -166,7 +166,7 @@ Streaming    Custom escrow contract on Base
 
 | Landing | Stream + Yield | My Streams | Earn Vaults |
 |---------|---------------|------------|-------------|
-| ![Landing](./screenshots/landing.png) | ![Stream](./screenshots/stream.png) | ![Streams](./screenshots/streams.png) | ![Earn](./screenshots/earn.png) |
+| ![Landing](./screenshots/landing.jpg) | ![Stream](./screenshots/stream.jpg) | ![Streams](./screenshots/streams.jpg) | ![Earn](./screenshots/earn.png) |
 
 ---
 
