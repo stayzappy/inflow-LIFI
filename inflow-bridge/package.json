@@ -1,0 +1,23 @@
+{
+  "name": "inflow-bridge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@privy-io/js-sdk-core": "^0.60.8",
+    "buffer": "^6.0.3",
+    "ethers": "^6.16.0"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.5.7",
+    "typescript": "^6.0.2",
+    "webpack": "^5.106.1",
+    "webpack-cli": "^7.0.2"
+  }
+}

@@ -1,0 +1,5 @@
+package com.zappy.inflow
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
