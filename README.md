@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/1f37af8a-d996-4501-a130-44cf5bfc1e47
+
+
+
 # ⚡ inFlow × LI.FI Earn
 
 > **Get paid by the second. Your salary earns vault yield while it streams.**
@@ -33,11 +39,9 @@
 
 
 
-https://github.com/user-attachments/assets/fd76decd-6ac6-4848-8888-4d60cd29baa2
+https://github.com/user-attachments/assets/2d93207d-bc00-4502-ad48-77f44c0c8eb8
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_ASSET_ID_HERE
 
-> ☝️ **To embed your video:** Open any GitHub Issue or PR → drag and drop your `.mp4` into the text box → wait for the upload link → copy the `https://github.com/user-attachments/assets/...` URL → paste it above replacing the placeholder. GitHub renders it as a native inline video player automatically — no third-party hosting needed.
 
 ---
 
